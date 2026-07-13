@@ -1,0 +1,54 @@
+{
+  "candidate_name": "John Michael Reyes",
+  "email": "john.reyes.dev@gmail.com",
+  "phone": "+63 917 123 4567",
+  "education": "Bachelor of Science in Information Technology",
+  "experience_years": 2,
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "Git",
+    "REST API",
+    "Docker",
+    "n8n",
+    "PostgreSQL"
+  ],
+  "certifications": [
+    "AWS Cloud Practitioner",
+    "Meta Front-End Developer Certificate"
+  ],
+  "projects": [
+    "AI Resume Screening & Ranking System",
+    "Inventory Management System",
+    "Task Management Web Application"
+  ],
+  "technical_score": 95,
+  "experience_score": 85,
+  "education_score": 80,
+  "project_score": 90,
+  "certification_score": 80,
+  "job_match_score": 92,
+  "final_score": 89,
+  "recommendation": "Hire",
+  "strengths": [
+    "Strong proficiency in React, Node.js, and REST APIs",
+    "Hands-on experience with Docker and n8n automation",
+    "Well-structured portfolio with multiple full-stack projects",
+    "Relevant certifications and modern development workflow"
+  ],
+  "weaknesses": [
+    "Limited enterprise-scale development experience",
+    "Could improve automated testing skills"
+  ],
+  "interview_questions": [
+    "Explain the React component lifecycle and Hooks.",
+    "How would you secure a REST API using JWT authentication?",
+    "Describe a workflow you built using n8n.",
+    "How does Docker simplify application deployment?",
+    "How would you optimize a PostgreSQL query?"
+  ]
+}
